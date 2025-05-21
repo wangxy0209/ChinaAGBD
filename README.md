@@ -1,10 +1,5 @@
 # ChinaAGBD
 China Biomass Dataset for 2020
-
----
-
-# Large-Scale Biomass Mapping Using GEE and Local Random Forest Models
-
 This repository provides a modular pipeline for large-scale aboveground biomass (AGB) estimation using Google Earth Engine (GEE) and local adaptive Random Forest (RF) models. The workflow is divided into four key stages:
 
 ---
