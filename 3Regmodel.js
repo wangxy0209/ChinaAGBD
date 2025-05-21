@@ -304,3 +304,9 @@ for (var i = 100; i < 110; i++) {
   // Adjust the range of tile indices as needed
   processAndExport(i);
 }
+
+/*
+Copyright (c) 2025 wangxy0209.
+This work is licensed under the terms of the MIT license.  
+For a copy, see https://opensource.org/licenses/MIT
+*/
