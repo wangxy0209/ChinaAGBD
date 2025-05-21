@@ -34,6 +34,8 @@ In this stage, a Random Forest model is trained for each grid tile using the pre
 
 After downloading all predicted grid tiles locally, this R script merges them into a single mosaic map. Optionally, users can apply a land cover mask using any available land cover product (customizable), to extract vegetation types of interest.
 
+A pre-generated national biomass product for all vegetation types in China for the year 2020 is freely available via the provided link. This product is stored as a 30-meter resolution GeoTIFF file and provides AGB values in units of megagrams per hectare (Mg ha⁻¹).
+
 ---
 
 ## 🔁 Extension
