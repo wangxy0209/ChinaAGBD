@@ -48,7 +48,7 @@ To do so, simply replace the predictor variables in the model with relevant EO d
 
 ---
 
-## 📁 Folder Structure (Optional Section)
+## 📁 Folder Structure
 
 ```text
 ├── 1GridSplit.js       # Splits study area into n×m tiles
