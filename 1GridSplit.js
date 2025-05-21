@@ -1,4 +1,7 @@
-// Define a function to partition the study area (ROI) into n × m tiles
+// ****************************************************
+// Part-0: Define a function to partition the study area (ROI) into n × m tiles
+// ****************************************************
+
 function gridSplit(roi, n, m) {
   var bounds = roi.geometry().bounds().getInfo().coordinates[0];
   var xmin = bounds[0][0] - 0.1;
