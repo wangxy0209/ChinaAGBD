@@ -174,7 +174,7 @@ var processAndExport = function(index) {
 
   var models = ee.Classifier.smileRandomForest({
       numberOfTrees: 50,
-      bagFraction: 0.63
+      bagFraction: 0.6
   }).setOutputMode('REGRESSION').train({
       features: trainingSet,
       classProperty: 'agbd',
@@ -202,7 +202,7 @@ var processAndExport = function(index) {
 
   var model = ee.Classifier.smileRandomForest({
     numberOfTrees: 50,
-    bagFraction: 0.63
+    bagFraction: 0.6
   }).setOutputMode('REGRESSION').train({
     features: training,
     classProperty: predict,
