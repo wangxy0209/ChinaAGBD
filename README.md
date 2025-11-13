@@ -73,4 +73,8 @@ To do so, simply replace the predictor variables in the model with relevant EO d
 
 If you use this code or pipeline in your research, please cite appropriately or reference this repository.
 
+Reference:
+
+Wang, X., Zhong, B., Chang, B., Zhang, Y., Li, S., Du, B., Qiao, Y., Cai, H., Wu, J., Yang, A., Jian, Y., Su, J., Wang, G., & Liu, Q. (2025). A 30 m aboveground biomass dataset for multiple vegetation types in China (2020). Scientific Data, 12(1), 1777. https://doi.org/10.1038/s41597-025-06053-x
+
 ---
